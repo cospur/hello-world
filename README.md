@@ -1,2 +1,3 @@
 # hello-world
-Tutorial on how to use GitHub 
+
+First GitHub tutorial on how to use GitHub's resources
